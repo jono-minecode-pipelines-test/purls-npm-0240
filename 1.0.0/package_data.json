@@ -1,0 +1,53 @@
+{
+    "name": "-wulinlong9.10rk",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "wld": "bin/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.20.0",
+        "commander": "^6.1.0",
+        "inquirer": "^7.3.3"
+    },
+    "_id": "-wulinlong9.10rk@1.0.0",
+    "_nodeVersion": "12.16.1",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-ml12t/FCGc1dcyo4KrvsyVUqhrjMEwMoD4A7aGZ62oJ1fUfHraZWLrwRDYqNTnR4M0yFsVuIeJmfTN3DqziX1g==",
+        "shasum": "d0fb5693772394b9cc39664f6bcfdcd02b2888c6",
+        "tarball": "https://registry.npmjs.org/-wulinlong9.10rk/-/-wulinlong9.10rk-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 1305,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfWXlECRA9TVsSAnZWagAAdckP/1sCfhmHRc8oacfDxJxs\n2XHLNtiUtCsWaLu1aUdES63uLovKbuE1Vx4aZWoNPqLaSB9papO+xOeOJG+w\nyqYBa996bK6sRoXBTkBAJhIpG+Y5jyRHg2IWV0G/nwXRlmSiypsrENW357bq\n2VURNu6LpxG8QUbKCK6Gc22tf06VC94YZI6pZYHRXJXsyKizPiq/cxU8vwU8\nSNZgz4A0gk5EKMcaMn/YTZjMfqBp8FS+/tgcopvRRzOJTTIaIISxGlK5/Mah\njnwg0XDMsGZhDa0O9FB9icbhmUiUW8LQKNLwJj1C3nU2PfUbsWrJ1GuF1WOH\noEvVMjbGI2rGGvsTqzYt00xugdvVsiBNJj13cN1RlDm+SnTBPtCvY5alGxQM\nETUBzzGw6DdnPpHgCjpIpZe6JLh/1r/utALIKNjnzsQfHm3ZwHgdFpbQMxHB\nYQjdy8e9CO/GWPvvdw+e7Jpcast6a/fpgfbPgxjtCL+sfwaEndPJoZg0Djbp\nskqn4O7s8P3/9kxc0g3BOJ8yBex9Rl4tnmsacYE6llYW5zKgWyG+kKpq+Cm3\nGeGFeoncJfBq59cHnIhSRAoLIZzm0/SZjRV+6xWRbyB84y3lZ6HX/fWayTQf\n5pyR7J1ogTJzoALyqRaza2XSC1vANAiUz0AtHtYloHDH+EPaQqASaQZUFcfN\nuP/Y\r\n=bhx9\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIE/1LTxLphwpmfWtVdxu39j2AF0VgNC/j7b202mchjmTAiEAj2BPvEIYtDaeS46eERvEbbdsnp9FXZgDqUHTL9EA+Ys="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "wulinlong",
+            "email": "2962345023@qq.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "wulinlong",
+        "email": "2962345023@qq.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-wulinlong9.10rk_1.0.0_1599699268442_0.8652590210770179"
+    },
+    "_hasShrinkwrap": false
+}

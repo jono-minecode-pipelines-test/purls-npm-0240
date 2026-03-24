@@ -1,0 +1,37 @@
+{
+    "name": "-----hsad-----",
+    "version": "0.0.0",
+    "packageManager": "pnpm@8.15.4+sha256.cea6d0bdf2de3a0549582da3983c70c92ffc577ff4410cbf190817ddc35137c2",
+    "_id": "-----hsad-----@0.0.0",
+    "_nodeVersion": "20.15.1",
+    "_npmVersion": "10.7.0",
+    "dist": {
+        "integrity": "sha512-O9mbxqMYM3/PzBl5t/VCWkGVKNdzbxqeImO0qjzlslQklCWFzdbkoQUBp/ShMj9mVMqE47Fw30OGS/TZPaIRew==",
+        "shasum": "18f483006b7fb43df5eed5bf9a8a2d723d77071e",
+        "tarball": "https://registry.npmjs.org/-----hsad-----/-/-----hsad------0.0.0.tgz",
+        "fileCount": 1,
+        "unpackedSize": 160,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC9OFgrbdlYC7HZrBIRSWlgclAAo9+yCoijwzOxVrFpwAIhAJE9NiJaJXa9AAA1tRgA4phSKv5wx+GxcHFQ3tmj1kSo"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "devjiwonchoi",
+        "email": "devjiwonchoi@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "devjiwonchoi",
+            "email": "devjiwonchoi@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-----hsad-----_0.0.0_1722183251308_0.685488557906496"
+    },
+    "_hasShrinkwrap": false
+}
