@@ -1,0 +1,51 @@
+{
+    "name": "-gpreact",
+    "version": "1.0.0",
+    "description": "@satoki00",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "postinstall": "node index.js"
+    },
+    "keywords": [
+        "hack"
+    ],
+    "author": {
+        "name": "Satoki",
+        "email": "t.satoki111@gmail.com",
+        "url": "https://github.com/satoki"
+    },
+    "license": "ISC",
+    "_id": "-gpreact@1.0.0",
+    "_nodeVersion": "21.1.0",
+    "_npmVersion": "10.2.0",
+    "dist": {
+        "integrity": "sha512-tLiMc9FL/DrhYUEysjj516fXQUtdidxtZSrvvWB2cYPy8y9aRza2XKBmBUzz7LT/oP9BTVlg149FhyusyQu1Qw==",
+        "shasum": "37fea4bac6e95cb813b105d378446a46a38c669d",
+        "tarball": "https://registry.npmjs.org/-gpreact/-/-gpreact-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 679,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIFx4N2eFxaAVQsd9Q2n+57Pn5CSS8O1UDfYzkmZ7V2J4AiEA5VbIzWQJAfmXcWHq9I7Cd5fevzhiQQh64CIgH/GC0yU="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "satoki00",
+        "email": "t.satoki111@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "satoki00",
+            "email": "t.satoki111@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-gpreact_1.0.0_1721378858471_0.41588050706474755"
+    },
+    "_hasShrinkwrap": false
+}

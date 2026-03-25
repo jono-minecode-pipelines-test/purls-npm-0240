@@ -1,0 +1,49 @@
+{
+    "name": "-saba-quiz-system",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-saba-quiz-system": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.23"
+    },
+    "_id": "-saba-quiz-system@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.7.0",
+    "dist": {
+        "integrity": "sha512-P52wwnQMEQuSiAbD9/PY+oSCVrUyzDCFzSbkuc5MfkN5qi1edWeXBYuriAozrsYR9X/0G7a8JIYxqEunMnlp+Q==",
+        "shasum": "ae945b2e0029a56949ed75cd37095c0b979e9c8f",
+        "tarball": "https://registry.npmjs.org/-saba-quiz-system/-/-saba-quiz-system-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 17409,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCgbsJ8h6WBhr6ISwfxPm0qI0QBHkHLKYbHNBj3GT9qQQIhAOXy6pVRqOlfPtpB2g/fTwGfjTDgspF5pRSWB6Xo2Svc"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "sabasamad95",
+        "email": "sabasamad95@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sabasamad95",
+            "email": "sabasamad95@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-saba-quiz-system_1.0.0_1717536929325_0.4628438494614149"
+    },
+    "_hasShrinkwrap": false
+}
